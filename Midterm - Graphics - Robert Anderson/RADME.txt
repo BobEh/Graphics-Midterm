@@ -1,0 +1,10 @@
+Press the following buttons to change the camera angle:
+
+1 -> Look at beach cave.
+2 -> Look at skull cave.
+3 -> Look at entire island.
+
+Press the following buttons to change from night to day.
+
+'Ctrl'+'N' -> Night time (default).
+'Ctrl'+'B' -> Day time.
